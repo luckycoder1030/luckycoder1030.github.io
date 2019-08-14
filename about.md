@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Passionate about computer science and willing to go the extra mile to learn new technologies. 
+Passionate about computer science and willing to go the extra mile to learn new technologies. Will occasionally lose hours of time taking a deep dive into an issue to really try to understand what actually went down. Some of these issues may or may not be... self-imposed. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### My not so static website
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+This website is running on a VPS hosted by Digital Ocean. Sometimes I create some cool stuff there. [Check it out!] (lcmsmith.com/)
