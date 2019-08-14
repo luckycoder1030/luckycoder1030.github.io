@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Passionate about computer science and willing to go the extra mile to learn new technologies. 
 
 ### More Information
 
