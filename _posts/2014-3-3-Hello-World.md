@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Computer Project documentation #1
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I will use this blog as a way to document any deep dives I take with any computer related projects
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
