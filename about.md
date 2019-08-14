@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Passionate about computer science and willing to go the extra mile to learn new technologies. Will occasionally lose hours of time taking a deep dive into an issue to really try to understand what actually went down. Some of these issues may or may not be... self-imposed. 
+Passionate about computer science and willing to go the extra mile to learn new technologies. I will occasionally lose hours at a time taking a deep dive into an issue to really try and understand what actually went down. Some of these issues may or may not be... self-imposed. 
 
 ### More Information
 
