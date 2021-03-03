@@ -10,4 +10,4 @@ Passionate about computer science and willing to go the extra mile to learn new 
 
 ### My not so static website
 
-This website is running on a VPS hosted by Digital Ocean. Sometimes I create some cool stuff there. [Check it out!](https://www.lcmsmith.com/)
+This website is running on a VPS hosted by Digital Ocean. I create some cool stuff there. [Check it out!](https://www.lcmsmith.com/)
