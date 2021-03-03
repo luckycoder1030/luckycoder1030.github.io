@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "luckysmith.dev",
+  "Id": "67182bed-00ea-47a5-bf48-c2216df72d6a"
+}
